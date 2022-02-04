@@ -1,1 +1,1 @@
-implementation of the popular code breaking game "bulls and cows" with features added features of user management and hish scores in a mysql database
+implementation of the popular code breaking game "bulls and cows" with added features of user management and high scores in a mysql database
